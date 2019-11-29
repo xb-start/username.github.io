@@ -1,0 +1,16 @@
+win+ctrl+D创建虚拟桌面
+win+ctrl+左箭头/右箭头 切换桌面
+win+ctrl+F4删除虚拟桌面
+win+D/M返回桌面
+win+1/2/3/4/5/6/7/8/9打开任务栏应用
+win+< 暂时返回桌面
+win+左箭头/右箭头 分屏
+win+ctrl+tab 打开应用程序导航
+win+tab 打开任务视窗
+ctrl+shift+esc 任务管理器
+win+e 打开我的电脑
+ win+加号/减号 放大减小
+win+A 控制中心
+win+I 打开设置、
+Python终止程序 ctrl+C
+C:\Users\10187\AppData\Roaming\baidu\BaiduNetdisk
